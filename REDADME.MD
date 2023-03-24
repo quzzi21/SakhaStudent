@@ -3,3 +3,4 @@ SakhaStudent
 Visual Studio Cod с применением js, html, css, php
 Bellissimo
 МПИТ 2023
+https://quzzi21.github.io/SakhaStudent/
